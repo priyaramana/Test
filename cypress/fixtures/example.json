@@ -1,0 +1,12 @@
+{
+  "Test-1":
+  {
+  "name": "Test-1",
+  "email": "hello@cypress.io"
+  },
+  "Test-2":
+  {
+  "name": "Test-2",
+  "email": "hi@cypress.io"
+  }
+}
